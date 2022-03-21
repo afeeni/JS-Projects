@@ -1,6 +1,4 @@
 function race(){
-
-
 }
 
 
@@ -9,13 +7,13 @@ arrowFunction = () => {
  
 arrowFunction()
 
+
+
 // explicit arrow function
 arrowFunction => {
     
    return arrowFunction
 }
-
-
 // implicit arrow
 
 arrowFunction2 => (
